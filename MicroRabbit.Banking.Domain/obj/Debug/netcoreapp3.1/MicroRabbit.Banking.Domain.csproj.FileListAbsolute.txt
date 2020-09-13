@@ -7,3 +7,6 @@ C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.
 C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
 C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
 C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csproj.CopyComplete
