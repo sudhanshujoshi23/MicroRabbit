@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XK9xVVrEQs/ZO+6vYCHOPA+wBcBtmlf4Rk/G8qPf6x+/RH/xtAuieku9HKAlqObsWT7XwmU9UR5VAzMnAcl0PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sudhanshu.joshi1\\Desktop\\MicroServices\\MicroRabbit\\MicroRabbit.Infrastructure.Bus\\MicroRabbit.Infrastructure.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sudhanshu.joshi1\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\sudhanshu.joshi1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\sudhanshu.joshi1\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\sudhanshu.joshi1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\sudhanshu.joshi1\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

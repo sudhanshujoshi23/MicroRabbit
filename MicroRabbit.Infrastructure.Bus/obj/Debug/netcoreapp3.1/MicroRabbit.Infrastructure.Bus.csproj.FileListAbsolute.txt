@@ -1,0 +1,12 @@
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.deps.json
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.dll
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csprojAssemblyReference.cache
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.AssemblyInfoInputs.cache
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.AssemblyInfo.cs
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csproj.CopyComplete
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.pdb
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.csproj.CoreCompileInputs.cache
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.dll
+C:\Users\sudhanshu.joshi1\Desktop\MicroServices\MicroRabbit\MicroRabbit.Infrastructure.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infrastructure.Bus.pdb
